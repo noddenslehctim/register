@@ -1,0 +1,10 @@
+{
+  "description": "My awesome portfolio",
+  "repo": "https://github.com/noddenslehctim/register",
+  "owner": {
+    "username": "noddenslehctim"
+  },
+  "record": {
+    "CNAME": "noddenslehctim.github.io"
+  }
+}
